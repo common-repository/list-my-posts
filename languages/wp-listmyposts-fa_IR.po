@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ListMyPosts\n"
+"POT-Creation-Date: 2013-10-18 11:45+0330\n"
+"PO-Revision-Date: 2013-10-18 13:43+0330\n"
+"Last-Translator: silvercover <silvercover@gmail.com>\n"
+"Language-Team:  <silvercover@gmail.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ListMyPost.php:80
+msgid "ListMyPosts"
+msgstr "کادر نوشته ها"
+
+#: ../ListMyPost.php:178
+msgid "Options saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: ../ListMyPost.php:217
+msgid "ListMyPosts Settings"
+msgstr "تنظیمات افزونه"
+
+#: ../ListMyPost.php:224
+msgid "Header Area"
+msgstr "بخش تیتر"
+
+#: ../ListMyPost.php:229 ../ListMyPost.php:299 ../ListMyPost.php:412
+msgid "Quick Help"
+msgstr "راهنمای سریع"
+
+#: ../ListMyPost.php:234
+msgid "Box Title"
+msgstr "تیتر بالای کادر"
+
+#: ../ListMyPost.php:237
+msgid "Leave blank to hide title."
+msgstr "جهت حذف تیتر این بخش را خالی رها کنید."
+
+#: ../ListMyPost.php:241
+msgid "Title Alignment"
+msgstr "موقعیت تیتر"
+
+#: ../ListMyPost.php:246 ../ListMyPost.php:252 ../ListMyPost.php:257
+#: ../ListMyPost.php:262 ../ListMyPost.php:422 ../ListMyPost.php:426
+msgid " Right "
+msgstr "سمت راست"
+
+#: ../ListMyPost.php:247 ../ListMyPost.php:251 ../ListMyPost.php:258
+#: ../ListMyPost.php:261
+msgid " Center "
+msgstr "وسط"
+
+#: ../ListMyPost.php:248 ../ListMyPost.php:253 ../ListMyPost.php:256
+#: ../ListMyPost.php:260 ../ListMyPost.php:423 ../ListMyPost.php:425
+msgid " Left "
+msgstr "چپ"
+
+#: ../ListMyPost.php:268
+msgid "Title Bottom Margin"
+msgstr "فاصله تیتر تا لبه بالایی کادر"
+
+#: ../ListMyPost.php:270 ../ListMyPost.php:276 ../ListMyPost.php:333
+#: ../ListMyPost.php:340 ../ListMyPost.php:347 ../ListMyPost.php:354
+#: ../ListMyPost.php:361 ../ListMyPost.php:368 ../ListMyPost.php:375
+#: ../ListMyPost.php:382 ../ListMyPost.php:389 ../ListMyPost.php:484
+#: ../ListMyPost.php:491 ../ListMyPost.php:498 ../ListMyPost.php:505
+#: ../ListMyPost.php:512 ../ListMyPost.php:519
+msgid "In pixel."
+msgstr "پیکسل."
+
+#: ../ListMyPost.php:274
+msgid "Title Font Size"
+msgstr "اندازه فونت تیترها"
+
+#: ../ListMyPost.php:280
+msgid "Title Color"
+msgstr "رنگ تیتر"
+
+#: ../ListMyPost.php:289 ../ListMyPost.php:313 ../ListMyPost.php:326
+#: ../ListMyPost.php:402 ../ListMyPost.php:554 ../ListMyPost.php:567
+msgid "It must be in HEX format."
+msgstr "باید در فرمت هگزادسیمال باشد"
+
+#: ../ListMyPost.php:294
+msgid "Box Area"
+msgstr "محدوده کادر"
+
+#: ../ListMyPost.php:304
+msgid "Background Color"
+msgstr "رنگ پس زمینه کادر"
+
+#: ../ListMyPost.php:317
+msgid "Border Color"
+msgstr "رنگ حاشیه دور کادر"
+
+#: ../ListMyPost.php:330
+msgid "Border Thickness"
+msgstr "ضخامت حاشیه دور کادر"
+
+#: ../ListMyPost.php:337
+msgid "Top Left Corner Radius"
+msgstr "شعاع گوشه بالا سمت چپ"
+
+#: ../ListMyPost.php:344
+msgid "Top Right Corner Radius"
+msgstr "شعاع گوشه بالا سمت راست"
+
+#: ../ListMyPost.php:351
+msgid "Bottom Left Corner Radius"
+msgstr "شعاع گوشه پایین سمت چپ"
+
+#: ../ListMyPost.php:358
+msgid "Bottem Right Corner Radius"
+msgstr "شعاع گوشه پایین سمت راست"
+
+#: ../ListMyPost.php:365
+msgid "Padding"
+msgstr "مقدار تو رفتگی از لبه های کادر"
+
+#: ../ListMyPost.php:372
+msgid "Horizontal Shadow"
+msgstr "سایه افقی"
+
+#: ../ListMyPost.php:379
+msgid "Vertical Shadow"
+msgstr "سایه عمودی"
+
+#: ../ListMyPost.php:386
+msgid "Size of Shadow"
+msgstr "ضخامت سایه"
+
+#: ../ListMyPost.php:393
+msgid "Shadow Color"
+msgstr "رنگ سایه"
+
+#: ../ListMyPost.php:407
+msgid "Links & Posts Style"
+msgstr "شیوه نمایش لینک ها و تیترها"
+
+#: ../ListMyPost.php:417
+msgid "Link Align"
+msgstr "موقعیت لینک ها"
+
+#: ../ListMyPost.php:432
+msgid "Posts Category"
+msgstr "دسته ای که مطالب از آن خوانده شود"
+
+#: ../ListMyPost.php:436
+msgid "Show from all"
+msgstr "نمایش از تمام دسته ها"
+
+#: ../ListMyPost.php:460
+msgid "Random Posts"
+msgstr "نوشته های تصادفی"
+
+#: ../ListMyPost.php:465 ../ListMyPost.php:469
+msgid " Yes "
+msgstr " بله "
+
+#: ../ListMyPost.php:466 ../ListMyPost.php:468
+msgid " No "
+msgstr " خیر "
+
+#: ../ListMyPost.php:475
+msgid "Number of Links"
+msgstr "تعداد لینک ها در کادر"
+
+#: ../ListMyPost.php:481
+msgid "Link Right Padding"
+msgstr "مقدار تو رفتگی لینک از راست"
+
+#: ../ListMyPost.php:488
+msgid "Link Left Padding"
+msgstr "مقدار تو رفتگی لینک از چپ"
+
+#: ../ListMyPost.php:495
+msgid "Link Right Margin"
+msgstr "حاشیه سمت راست لینک از لبه"
+
+#: ../ListMyPost.php:502
+msgid "Link Left Margin"
+msgstr "حاشیه سمت چپ لینک از لبه"
+
+#: ../ListMyPost.php:509
+msgid "Icon Top Position"
+msgstr "موقعیت قرارگیری آیکن از لبه بالایی"
+
+#: ../ListMyPost.php:516
+msgid "Icon Left Position"
+msgstr "فاصله آیکن از سمت چپ کادر"
+
+#: ../ListMyPost.php:523
+msgid "Link Icon"
+msgstr "آیکن لینک"
+
+#: ../ListMyPost.php:545
+msgid "Link Color"
+msgstr "رنگ لینک"
+
+#: ../ListMyPost.php:558
+msgid "Hover Link Color"
+msgstr "رنگ لینک به هنگام رفتن موس روی آن"
+
+#: ../ListMyPost.php:574
+msgid "Save Changes"
+msgstr "دخیره تنظیمات"
